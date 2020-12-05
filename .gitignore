@@ -5,4 +5,7 @@ yarn-error.log
 /__sapper__/
 /flaGoesHere/*.fla
 /flaGoesHere/flafiles/*.html
-/flaGoesHere/flafiles/images
+/flaGoesHere/flafiles/images/*.jpg
+/flaGoesHere/flafiles/images/*.png
+/flaGoesHere/flafiles/images/*.bmp
+/flaGoesHere/flafiles/images/*.gif
